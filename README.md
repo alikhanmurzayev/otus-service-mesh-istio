@@ -1,3 +1,1 @@
 # otus-service-mesh-istio
-
-
